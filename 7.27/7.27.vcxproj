@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{EBADFCB8-4F9C-4000-B2D5-F654315B6B57}</ProjectGuid>
-    <RootNamespace>My723</RootNamespace>
+    <ProjectGuid>{D24B223B-C588-4183-B0A9-05C18839AEAA}</ProjectGuid>
+    <RootNamespace>My727</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -47,6 +47,7 @@
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -65,7 +66,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="game.c" />
-    <ClCompile Include="三子棋.c" />
+    <ClCompile Include="扫雷.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h" />
