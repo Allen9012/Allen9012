@@ -200,12 +200,36 @@
 //	printf("%d\n", num);
 //	return 0;
 //}
-//int my_strlen(char*dest, const char *str)//10分
+//#include <assert.h>
+//char* my_strcpy(char* dest, const char* src)//(10分）
+//{
+//	char* ret = dest;
+//	assert(dest != NULL);//断言//保证指针的有效性
+//	assert(src != NULL);//断言
+//	//把src指向的字符串拷贝到dest指向的空间，包含'\0'字符
+//	while (*dest++ = *src++)
+//	{
+//		;
+//	}
+//	return ret;
+//}
+//
+//int main()
+//{
+//	//strcpy
+//	//字符串拷贝
+//	char arr1[] = "#########";
+//	char arr2[] = "bit";
+//
+//	printf("%s\n", my_strcpy(arr1, arr2));
+//
+//	return 0;
+//}
+//int my_strlen(const char *str)
 //{
 //	int count = 0;
-//	assert(dest != NULL);//保证指针的有效性
-//	//把src指向的字符串拷贝到dest指向的空间，包含'\0'字符
-//	assert(str != NULL);//断言
+//	assert(str != NULL);//保证指针的有效性
+//
 //	while (*str != '\0')
 //	{
 //		count++;
@@ -213,15 +237,7 @@
 //	}
 //	return count;
 //}
-//int main()
-//{
-//	//strcpy
-//	char arr1[] = "########";
-//	char arr2[] = "bit";
-//	my_strcpy(arr1,arr2); 
-//	printf("%s\n",my_strcpy(arr1,arr2));//链式访问，同时可以检测
-//	return 0;
-//}
+//
 //int main()
 //{
 //	char arr[] = "abcdef";
@@ -237,23 +253,23 @@
 //	assert(p != NULL);
 //	return 0;
 //}
-
-int add(int x, int y)
-{
-	return x + y;
-}
-
-int main()
-{
-	//int a = 10;
-	//int b = 20;
-	//int sum = Add(a, b);
-	//printf("%d\n", sum);
-	printf("hehe\n");
-	printf("%c\n", 9);
-	printf("%c\n", 9);
-
-	printf("hehe\n");
-	puts("01\v2345");
-	return 0;
-}
+//
+//int add(int x, int y)
+//{
+//	return x + y;
+//}
+//
+//int main()
+//{
+//	//int a = 10;
+//	//int b = 20;
+//	//int sum = Add(a, b);
+//	//printf("%d\n", sum);
+//	printf("hehe\n");
+//	printf("%c\n", 9);
+//	printf("%c\n", 9);
+//
+//	printf("hehe\n");
+//	puts("01\v2345");
+//	return 0;
+//}
