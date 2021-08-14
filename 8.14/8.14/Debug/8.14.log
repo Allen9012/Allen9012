@@ -1,0 +1,6 @@
+﻿  指针4.c
+c:\users\allen\desktop\c语言\vs2013\8.14\8.14\指针4.c(417): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+c:\users\allen\desktop\c语言\vs2013\8.14\8.14\指针4.c(417): warning C4024: “strlen”: 形参和实参 1 的类型不同
+c:\users\allen\desktop\c语言\vs2013\8.14\8.14\指针4.c(418): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+c:\users\allen\desktop\c语言\vs2013\8.14\8.14\指针4.c(418): warning C4024: “strlen”: 形参和实参 1 的类型不同
+  8.14.vcxproj -> C:\Users\Allen\Desktop\c语言\vs2013\8.14\Debug\8.14.exe
