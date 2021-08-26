@@ -1,0 +1,7 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(contact1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+C:\Users\Allen\Desktop\c语言\VS2019\contact1\test.c(27,7): warning C4013: “menu”未定义；假设外部返回 int
+  contact.c
+C:\Users\Allen\Desktop\c语言\VS2019\contact1\contact.c(104,28): warning C4028: 形参 1 与声明不同
+  正在生成代码...
+  contact1.vcxproj -> C:\Users\Allen\Desktop\c语言\VS2019\contact1\Debug\contact2.exe
