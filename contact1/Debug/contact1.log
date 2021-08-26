@@ -1,0 +1,3 @@
+﻿  contact.c
+C:\Users\Allen\Desktop\c语言\VS2019\contact1\contact.c(33,28): warning C4028: 形参 1 与声明不同
+  contact1.vcxproj -> C:\Users\Allen\Desktop\c语言\VS2019\contact1\Debug\contact1.exe
