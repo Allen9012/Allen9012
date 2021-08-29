@@ -1,1 +1,2 @@
 C:\Users\Allen\Desktop\c语言\VS2019\8.29\Debug\8.29.exe
+C:\Users\Allen\Desktop\c语言\VS2019\2021\8.29\Debug\8.29.exe
