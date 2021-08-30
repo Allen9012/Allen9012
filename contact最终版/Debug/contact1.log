@@ -1,0 +1,8 @@
+﻿D:\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(contact1.vcxproj, contact2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.c
+  contact.c
+C:\Users\Allen\Desktop\c语言\VS2019\2021\contact2\contact.c(86,28): warning C4028: 形参 1 与声明不同
+C:\Users\Allen\Desktop\c语言\VS2019\2021\contact2\contact.c(208,11): warning C4098: “Savecontact”:“void”函数返回值
+C:\Users\Allen\Desktop\c语言\VS2019\2021\contact2\contact.c(226,11): warning C4098: “Loadcontact”:“void”函数返回值
+  正在生成代码...
+  contact1.vcxproj -> C:\Users\Allen\Desktop\c语言\VS2019\2021\contact2\Debug\contact最终版.exe
