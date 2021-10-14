@@ -1,0 +1,7 @@
+﻿  test.c
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,14): error C2057: 应输入常量表达式
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,14): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,17): error C2057: 应输入常量表达式
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,17): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,17): error C2087: “arr”: 缺少下标
+C:\Users\Allen\Desktop\c语言\VS2019\2021\c语言训练营10\test.c(37,18): error C2133: “arr”: 未知的大小
